@@ -1,0 +1,17 @@
+.logo {
+    height: 50px;
+    margin: 16px;
+}
+.user_avatar{
+    background-color: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+}
+.user_name{
+    margin-left: 5px;
+    color: white;
+    letter-spacing: 4px;
+    font-size:x-large;
+}

@@ -1,0 +1,10 @@
+const BASIC_PATH = "http://localhost:8080"
+export const GET_ALL_COVER_URL = BASIC_PATH + "/cover"
+export const ADD_COVER_URL = BASIC_PATH + "/cover/add";
+export const DELETE_COVER_URL = BASIC_PATH + "/cover/";
+export const UPDATE_COVER_URL = BASIC_PATH + "/cover/update";
+export const UPDATE_ALL_COVER_URL = BASIC_PATH +"/cover/change_all";
+export const GET_ALL_ARTICLE_URL = BASIC_PATH + "/article";
+export const ADD_ARTICLE_URL = BASIC_PATH + "/article/add";
+export const DELETE_ARTICLE_URL = BASIC_PATH + "/article/";
+export const UPDATE_ARTICLE_URL = BASIC_PATH + "/article/update";

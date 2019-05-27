@@ -1,0 +1,26 @@
+@import "~antd/dist/antd.css";
+tr.drop-over-downward td {
+    border-bottom: 2px dashed #1890ff;
+}
+
+tr.drop-over-upward td {
+    border-top: 2px dashed #1890ff;
+}
+.contain-div{
+    background-color: white;
+    padding: 30px;
+}
+.w{
+    float: left;
+    width: auto;
+    height: 60px;
+    margin: 0 8px 8px 0;
+}
+
+.ant-upload-list-picture .ant-upload-list-item, .ant-upload-list-picture-card .ant-upload-list-item {
+    position: relative;
+    height: 60px;
+     padding: 0px;
+    border: 0px ;
+    border-radius: 4px;
+}
